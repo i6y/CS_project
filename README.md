@@ -4,7 +4,7 @@
 
 #### ffmpeg
 
-#### whisper
+#### whisper [PyPI page](https://pypi.org/project/openai-whisper/)
 
 #### gpt4free/g4f [PyPI page](https://pypi.org/project/g4f/)
  ```sh
