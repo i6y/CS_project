@@ -1,6 +1,6 @@
 # Dependencies
 
-###### Program must run on a device with an x86_64 chipset
+#### Program must run on a device with an x86_64 chipset
 ###### Check if ffmpeg, g4f/gpt4free, and whisper are installed
 
 
