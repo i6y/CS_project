@@ -6,8 +6,7 @@
 
 #### whisper
 
-#### gpt4free/g4f
-######  - [PyPI page](https://pypi.org/project/g4f/)
+#### gpt4free/g4f [PyPI page](https://pypi.org/project/g4f/)
  ```sh
   - pip install -U g4f[all]
  ```
