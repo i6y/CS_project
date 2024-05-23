@@ -1,7 +1,13 @@
 # Dependencies
 
 #### Program must run on a device with an x86_64 chipset
-###### Check if ffmpeg, g4f/gpt4free, and whisper are installed
+
+#### ffmpeg
+
+#### whisper
+
+#### gpt4free/g4f
+###### pip install -U g4f [PyPI page](https://pypi.org/project/g4f/)
 
 
 3) Use either an mp3 or mp4 file, or a premade transcript
