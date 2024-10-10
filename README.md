@@ -12,4 +12,4 @@
  ```
 
 
-3) Use either an mp3 or mp4 file, or a premade transcript
+#### Use either an mp3 or mp4 file. If you have a trancript and you just want to create notes you can just input the transcript as
