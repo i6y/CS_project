@@ -12,4 +12,4 @@
  ```
 
 
-#### Use either an mp3 or mp4 file. If you have a trancript and you just want to create notes you can just input the transcript as
+#### Use either an mp3 or mp4 file. If you have a trancript and you just want to create notes you can just replace the definition of the 'text' variable with your transcript, and then, to save time, you can also delete the lines that actually use the whisper library.
